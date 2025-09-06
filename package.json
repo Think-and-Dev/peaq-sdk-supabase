@@ -20,7 +20,7 @@
     "build": "tsc ./peaqSDK/**/**.ts"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^5.1.0",
+    "@openzeppelin/contracts": "^5.4.0",
     "@peaq-network/sdk": "^0.7.2",
     "axios": "^1.7.9",
     "dotenv": "^10.0.0",
