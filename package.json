@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
-    "supabase": "^2.15.8",
+    "supabase": "^2.72.8",
     "typescript": "^5.7.2"
   }
 }
